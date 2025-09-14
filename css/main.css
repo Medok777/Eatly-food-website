@@ -37,7 +37,7 @@ body {
   justify-content: center;
   align-items: center;
   background: #212121;
-  z-index: 2;
+  z-index: 999;
   overflow: hidden;
 }
 
@@ -3008,3 +3008,4 @@ body.show-loader-active {
 .contact-mobile {
   display: none;
 }
+
